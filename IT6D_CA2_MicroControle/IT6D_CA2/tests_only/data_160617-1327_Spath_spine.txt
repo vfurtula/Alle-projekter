@@ -1,0 +1,8 @@
+Your comment line - do NOT delete this line
+S [mm], Max voltage [mV]
+0.0	0.34
+0	0.34
+2.000666526	0.34
+0	0.34
+4.00209197884	0.34
+0	0.34

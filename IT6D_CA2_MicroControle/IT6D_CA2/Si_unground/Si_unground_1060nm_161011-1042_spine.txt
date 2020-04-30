@@ -1,0 +1,4 @@
+Your comment line - do NOT delete this line
+X-pos[m], Y-pos [m], Max voltage [V]
+0.0	0.0	0.0478022
+0.0	-2.5e-05	0.0522501

@@ -1,0 +1,23 @@
+import time 
+import Gpib 
+
+v=Gpib.Gpib(0,9)
+v.write('I2=+55751!')
+v.write(chr(10))
+
+
+
+'''
+v.write('I1?')
+time.sleep(5)
+
+try:
+  while (True):
+    v.write(":READ?")
+    print v.read()
+    time.sleep(0.1)
+
+except KeyboardInterrupt:
+  print 'exiting'  
+
+'''

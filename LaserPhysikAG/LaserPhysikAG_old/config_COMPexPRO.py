@@ -1,0 +1,14 @@
+rate=10
+hv=19.0
+pulse_time=10
+schroll=200
+timeout="OFF"
+warmup="OFF"
+trigger="INT"
+gasmode="PREMIX"
+folder="tests"
+filename="files_"
+timetrace="181030-1501"
+COMPexPROport="COM1"
+emailrec=["vfurtula@gmail.com"]
+emailset=["turidreenaaslab","yes","no"]

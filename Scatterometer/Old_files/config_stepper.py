@@ -1,0 +1,10 @@
+NumOfIntervals=1
+Start=[0]
+Stop=[100]
+Step=[10]
+Wait_time=[2]
+calibfile="/home/vfurtula/Documents/Projects/Scatterometer/Calib_files/Stepper_calib_160715.txt"
+filename="some_file"
+create_folder="some_folder"
+timestr="160727-1455"
+stepperport="/dev/ttyACM0"

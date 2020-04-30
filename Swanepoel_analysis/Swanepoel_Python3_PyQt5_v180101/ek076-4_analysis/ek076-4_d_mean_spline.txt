@@ -1,0 +1,3 @@
+Interpolation method used: spline
+Substrate thickness in nm 
+5684.17326623

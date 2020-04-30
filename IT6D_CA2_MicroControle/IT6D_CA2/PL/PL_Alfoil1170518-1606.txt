@@ -1,0 +1,6 @@
+Your comment line - do NOT delete this line
+X-pos [m], Y-pos [m], Voltage [V]
+0.03825		-0.0134999		1.08481e-05
+0.03825		-0.013		3.17099e-05
+0.03825		-0.0125		3.63591e-05
+0.03825		-0.012		1.00136e-05

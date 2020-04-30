@@ -1,0 +1,16 @@
+loadSubOlis=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/sapphirejune16.asc",True]
+loadSubFilmOlis=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/ek036-4.asc",True]
+loadSubFTIR=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/SAPPHIREJUNE16.DPT",True]
+loadSubFilmFTIR=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/EK036-4.DPT",True]
+fit_linear_spline="spline"
+gaussian_factors=[7.25, 1.0, 0.75, 0.0]
+gaussian_borders=[0.225, 0.6, 0.8, 1.6, 3.25]
+ignore_data_pts=45
+corr_slit=1
+fit_poly_order=4
+fit_poly_ranges=[[0.6, 0.95, 1.5, 2.5],True]
+filename="save_to_file"
+folder="save_to_folde"
+timestr="180223-1627"
+save_figs=True
+plot_X="eV"

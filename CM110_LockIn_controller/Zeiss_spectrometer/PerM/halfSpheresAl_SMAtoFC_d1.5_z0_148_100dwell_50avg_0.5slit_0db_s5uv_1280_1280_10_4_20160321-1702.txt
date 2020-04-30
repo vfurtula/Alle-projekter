@@ -1,0 +1,3 @@
+Your edit line - do NOT delete this line
+Wavelength [nm], Voltage [mV], Raw output [bit step], Elapsed time [s]
+1280	366.568914956	75	4.29600000381

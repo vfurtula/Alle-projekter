@@ -1,0 +1,8 @@
+Interpolation method for Tmin and Tmax points is linear
+The control python file is ek062-4
+The raw_olis data file is ek062-4
+The raw_ftir data file is ek062-4
+The sub_olis data file is BareSapphire3b
+The sub_ftir data file is sapphire 3 matt
+Substrate thickness in nm 
+4066.18251451

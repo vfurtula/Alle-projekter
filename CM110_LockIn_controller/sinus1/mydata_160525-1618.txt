@@ -1,0 +1,1 @@
+Wavelength[nm], Lock-in voltage[mV], Raw data[0..1023 steps], Timetrace [sec]

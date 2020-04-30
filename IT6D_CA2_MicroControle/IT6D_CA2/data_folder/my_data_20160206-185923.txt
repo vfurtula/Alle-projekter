@@ -1,0 +1,5 @@
+Your edit line - do NOT delete this line
+X-pos [um], Y-pos [um], Voltage [V]
+-2000	0.0	8e-06
+-1900	0.0	7e-06
+-1800	0.0	8e-06

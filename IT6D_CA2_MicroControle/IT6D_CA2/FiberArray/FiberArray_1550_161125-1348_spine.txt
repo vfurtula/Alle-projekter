@@ -1,0 +1,4 @@
+Your comment line - do NOT delete this line
+Axis index, S_path [m], X-pos[m], Y-pos [m], Max voltage [V], FWHM [m]
+0	0.0	0.0186	-0.0019999	2.60306e-05	0.00176611503377
+1	0.000781024967591	0.018	-0.0024999	4.17999e-05	0.00176611503377

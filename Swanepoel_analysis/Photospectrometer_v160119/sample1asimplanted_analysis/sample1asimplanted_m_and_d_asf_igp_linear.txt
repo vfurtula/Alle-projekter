@@ -1,0 +1,11 @@
+Interpolation method used: linear
+Column 1: Number of ignored points
+Column 2: Y-axis intersept point in nm
+Column 3: -m_1 index (given by l/2) in nm
+Column 4: Film thickness calculated from the slope a (NOT final) in nm
+Column 5: Film thickness 2nd iteration (d2 in Table 1 in Swanepoel(1983)) in nm
+0	-2.27963944343	-2.5	947.604381171	1003.92239548
+1	-2.69848769979	-2.5	1070.1922618	1012.74063045
+2	-3.24964331396	-3.0	1239.64765639	1164.11689101
+3	-6.16292259547	-6.0	2167.51676826	2116.10806981
+4	-6.34618697404	-6.5	2228.19209443	2278.37637625

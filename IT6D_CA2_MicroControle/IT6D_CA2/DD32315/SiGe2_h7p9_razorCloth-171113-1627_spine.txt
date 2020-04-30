@@ -1,0 +1,12 @@
+Your comment line - do NOT delete this line
+Col 0: Axis index
+Col 1: S_path [m]
+Col 2: Max voltage X-pos[m]
+Col 3: Max voltage Y-pos[m]
+Col 4: Max voltage [V]
+Col 5: Full width half maximum (FWHM) [m]
+
+Col 0	Col 1	Col 2	Col 3	Col 4	Col 5
+0	0	0.0298	0.0	0.042618	0.000349346286693
+0	0.0	0.0298	0.0	0.042618	0.000349346286693
+1	0.000502394277436	0.02985	-0.0004999	0.103325	0.000281206151469

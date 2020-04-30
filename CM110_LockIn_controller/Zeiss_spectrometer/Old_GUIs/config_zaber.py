@@ -1,0 +1,14 @@
+NumOfIntervals=1
+Start=[950]
+Stop=[1400]
+Step=[10]
+Wait_time=[3]
+Wait_time_ard=200
+Avg_pts=200
+Analogref=5000
+calibfile="C:/Documents and Settings/PLD User/My Documents/Vedran_work_folder/Zeiss_spectrometer/Calib_files/Zeiss_calib__160531-1217.txt"
+filename="trial"
+create_folder="Zahra"
+timestr="160610-1438"
+zaberport="COM22"
+ardport="COM21"

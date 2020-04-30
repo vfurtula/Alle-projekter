@@ -1,0 +1,3 @@
+Interpolation method used: linear
+Substrate thickness in nm 
+6998.91796183

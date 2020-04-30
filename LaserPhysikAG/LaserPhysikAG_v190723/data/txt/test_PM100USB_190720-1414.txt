@@ -1,0 +1,16 @@
+Your comment line - keep this line
+Col 0: Elapsed time [s]
+Col 1: Beam energy [mJ]
+Col 2: Current pulse rate [Hz]
+Col 3: Voltage [kV]
+
+Col 0		Col 1	Col 2	Col 3
+00001.7600	0.003	1	29.0
+00002.7573	0.003	1	29.0
+00003.7573	0.003	1	29.0
+00004.7573	0.003	1	29.0
+00005.7573	0.004	1	30.0
+00006.7574	0.004	1	30.0
+00007.7574	0.004	1	30.0
+00008.7574	0.003	1	30.0
+00009.7575	0.004	1	30.0

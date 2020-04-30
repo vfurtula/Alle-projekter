@@ -1,0 +1,16 @@
+loadSubOlis=["/home/vfurtula/Downloads/sapphirejune16.asc",True]
+loadSubFilmOlis=["/home/vfurtula/Downloads/ek036-4.asc",True]
+loadSubFTIR=["/home/vfurtula/Downloads/SAPPHIREJUNE16.DPT",True]
+loadSubFilmFTIR=["/home/vfurtula/Downloads/EK036-4.DPT",True]
+fit_linear_spline="spline"
+gaussian_factors=[8.5, 1.5, 1.0, 0.0]
+gaussian_borders=[0.225, 0.6, 0.8, 1.6, 3.25]
+ignore_data_pts=45
+corr_slit=2
+fit_poly_order=4
+fit_poly_ranges=[[0.6, 0.95, 1.5, 2.5],True]
+filename="save_to_file"
+folder="save_to_folder"
+timestr="180223-1630"
+save_figs=True
+plot_X="nm"

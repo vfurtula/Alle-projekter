@@ -1,0 +1,33 @@
+!KNICK præcisions-spændingsforsyning
+!KNICK indstillinger: 0 0(var) 503 mV (-> +) (x100)
+!Kolonne 1: spænding (millivolts) aflæst med Keithley
+!Kolonne 2: Bit nummer aflæst med Arduino Mega2560 med analogReference(INTERNAL1V1)
+0.0	0
+0.2	3
+0.3	10
+0.5	23
+1.0	56
+1.2	69
+2.0	122
+3.0	188
+4.0	255
+5.0	321
+6.0	388
+7.0	454
+8.0	520
+9.0	587
+10.0	653
+10.5	687
+11.0	720
+11.5	753
+12.0	786
+12.5	820
+13.0	853
+13.5	886
+14.0	919
+14.5	953
+15.0	986
+15.2	999
+15.3	1006
+15.4	1012
+15.5	1019

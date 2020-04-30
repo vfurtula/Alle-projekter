@@ -1,0 +1,5 @@
+Your edit line - do NOT delete this line
+Wavelength [nm], Slit width [mm], Voltage [V], Elapsed time [s]
+1000.0	0.1	1e-06	7.40700006485
+1000.0	0.2	8e-07	10.5789999962
+1000.0	0.3	8e-07	13.375

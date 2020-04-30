@@ -1,0 +1,6 @@
+Your edit line - do NOT delete this line
+Wavelength [nm], Voltage [V], Elapsed time [s]
+900.0	4.5e-06	4.92200016975
+910.0	4.5e-06	6.90600013733
+920.0	4.5e-06	8.68799996376
+930.0	4.3e-06	10.4690001011

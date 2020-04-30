@@ -1,0 +1,8 @@
+Your comment line - do NOT delete this line
+Index of axis scanned, a_lsf [V_log/m], b_lsf [V_log], Residual sum [V_log**2] 
+0	0.0	-4.57561138375	0
+1	0.0	-4.60253713115	0
+2	0.0	-3.99079895829	0
+3	0.0	-3.59569748012	0
+4	0.0	-2.3352548459	0
+5	31362.8103898	-23.1832818113	2126.41454235

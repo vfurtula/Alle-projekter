@@ -1,0 +1,16 @@
+loadSubOlis=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/silicon.asc",True]
+loadSubFilmOlis=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/ek072-1.asc",True]
+loadSubFTIR=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/SILICON.DPT",True]
+loadSubFilmFTIR=["/home/vfurtula/Documents/Projects/Swanepoel_analysis/data/EK072-1.DPT",True]
+fit_linear_spline="linear"
+gaussian_factors=[10.0, 6.0, 2.0, 0.0]
+gaussian_borders=[0.05, 0.1, 0.6, 1.2, 1.26]
+ignore_data_pts=10
+corr_slit=10
+fit_poly_order=4
+fit_poly_ranges=[[0.6, 0.95, 1.5, 2.5],True]
+filename="save_to_file"
+folder="save_to_folder"
+timestr="161211-1839"
+save_figs=False
+plot_X="eV"

@@ -1,0 +1,18 @@
+Your comment line - do NOT delete this line
+Col 0: Elapsed time [s]
+Col 1: Total counter (1000)
+Col 2: Pulse rate [Hz]
+Col 3: High volt. [kV]
+Col 4: Beam energy [mJ]
+Col 5: Laser tube press. [mbar]
+Col 6: Laser tube temp. [C]
+Col 7: Buffer press. [mbar]
+
+Col 0		Col 1	Col 2	Col 3	Col 4	Col 5	Col 6	Col 7
+00000.2400	25295	5	19.0	105.0	3071.0	0.8	3120.0
+00000.4700	25295	5	19.0	105.0	3071.0	0.8	3120.0
+00000.7144	25295	5	19.0	105.0	3070.0	0.8	3120.0
+00000.9412	25295	5	19.0	105.0	3071.0	0.8	3120.0
+00001.1712	25295	5	19.0	105.0	3071.0	0.8	3120.0
+00001.4112	25295	5	19.0	105.0	3071.0	0.8	3120.0
+00001.6420	25295	5	19.0	105.0	3071.0	0.8	3120.0

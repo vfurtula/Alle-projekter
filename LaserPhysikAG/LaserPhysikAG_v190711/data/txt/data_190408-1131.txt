@@ -1,0 +1,9 @@
+Your comment line - do NOT delete this line
+Col 0: Elapsed time [s]
+Col 1: Total counter (1000)
+Col 2: Pulse rate [Hz]
+Col 3: Volt. [kV]
+Col 4: Beam energy [mJ]
+Col 5: Power meter PM100USB [J]
+
+Col 0		Col 1	Col 2	Col 3	Col 4	Col 5
